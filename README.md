@@ -70,7 +70,7 @@ So that the repository is successfully cloned and project run smoothly, a few st
 - The use of [Visual Studio Code](https://code.visualstudio.com/Download) is strongly recommended.
 - Need to have MySQL, if you don't have it anywhere, download and install it [from here](https://dev.mysql.com/downloads/installer/).
 - Need to have a [Twitter Developer Account](https://developer.twitter.com/en/docs/developer-portal/overview).
-- Need to have NPM and NodeJS.
+- Need to have NPM (I have used v8.19.2) and NodeJS (I have used v19.0.0).
 
 ### Installation for Developers
 
