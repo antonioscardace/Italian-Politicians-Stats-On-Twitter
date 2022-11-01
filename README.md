@@ -80,7 +80,7 @@ So that the repository is successfully cloned and project run smoothly, a few st
    cd YOUR_PATH/Italian-Politicians-Stats-On-Twitter/src/
    npm install
 ```  
-2. Set coalitions and accounts' handles you want to analyze in ``/db/data.sql`` 
+2. Set coalitions and accounts' handles you want to analyze in ``db/data.sql`` 
 3. Configure ``.env`` config file.
 4. Import database on MySQL
 ```sql
