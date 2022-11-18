@@ -76,7 +76,7 @@ So that the repository is successfully cloned and project run smoothly, a few st
 
 1. Clone the repository
 ```sh
-   git clone https://github.com/ElephanZ/Italian-Politicians-Stats-On-Twitter.git
+   git clone https://github.com/antonioscardace/Italian-Politicians-Stats-On-Twitter.git
    cd YOUR_PATH/Italian-Politicians-Stats-On-Twitter/src/
    npm install
 ```  
